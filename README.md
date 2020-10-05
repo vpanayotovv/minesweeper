@@ -2,16 +2,6 @@
 
 Technology demo, programming exercise and a tribute to the classic minesweeper game.
 
-## Synopsis
-
-This is a project aiming to implement the same classic game with different web 
-technologies. The goal is not to simply port the logic from one implementation to another
-but to follow the conventions and best practices of each programming environment.
-
-Minesweeper is a simple game, but it is complex enough to introduce interesting 
-differences in how the same problems are approached by different tools and languages.
-
-
 ## Spring MVC
 
 This implementation is a simple "web 1.0" application. The aim of this application was to
